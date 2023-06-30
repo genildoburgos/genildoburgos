@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Genildo Burgos
+- 👀 I’m interested right now in Web Develop
+- 🌱 I’m currently learning React and JavaScript

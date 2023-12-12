@@ -23,14 +23,11 @@ Olá, sou Genildo Burgos, Desenvolvedor web Freelance e estudante de Ciência da
 ## Experiência
 - Desenvolvedor Frontend Freelance em:
   - [Workana](https://www.workana.com/)
-  - [99Freelas](https://www.99freelas.com.br/)
   - [GetNinjas](https://www.getninjas.com.br/)
-  - [Upwork](https://www.upwork.com/)
 
 ## Contato
 - 📞 (87) 99131-3696
 - ✉️ Email: gnldburgos@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/genildo-burgos/)
 - [GitHub](https://github.com/genildoburgos)
 
 ## Idiomas

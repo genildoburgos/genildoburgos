@@ -21,6 +21,10 @@ Olá, sou Genildo Burgos, Desenvolvedor web Freelance e estudante de Ciência da
 ![Sistemas Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Experiência
+- Desenvolvimento pessoal:
+  - [MENU BURGUER](https://menu-burger-genildo.vercel.app/)
+  - [GERADOR DE SENHA](https://password-generator-js-indol.vercel.app/)
+
 - Desenvolvedor Frontend Freelance em:
   - [Workana](https://www.workana.com/)
   - [GetNinjas](https://www.getninjas.com.br/)

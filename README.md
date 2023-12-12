@@ -20,23 +20,6 @@ Olá, sou Genildo Burgos, Desenvolvedor web Freelance e estudante de Ciência da
 ![Sistemas Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
 ![Sistemas Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Experiência
-- Desenvolvimento pessoal:
-  - [Menu Burguer](https://menu-burger-genildo.vercel.app/)
-  - [Gerador de Senha](https://password-generator-js-indol.vercel.app/)
-
-- Desenvolvedor Frontend Freelance em:
-  - [Workana](https://www.workana.com/)
-  - [GetNinjas](https://www.getninjas.com.br/)
-
-## Contato
-- 📞 (87) 99131-3696
-- ✉️ Email: gnldburgos@gmail.com
-- [GitHub](https://github.com/genildoburgos)
-
-## Idiomas
-- Português: Nativo
-- Inglês: Avançado
 
 
 

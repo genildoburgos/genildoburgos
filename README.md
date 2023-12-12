@@ -22,8 +22,8 @@ Olá, sou Genildo Burgos, Desenvolvedor web Freelance e estudante de Ciência da
 
 ## Experiência
 - Desenvolvimento pessoal:
-  - [MENU BURGUER](https://menu-burger-genildo.vercel.app/)
-  - [GERADOR DE SENHA](https://password-generator-js-indol.vercel.app/)
+  - [Menu Burguer](https://menu-burger-genildo.vercel.app/)
+  - [Gerador de Senha](https://password-generator-js-indol.vercel.app/)
 
 - Desenvolvedor Frontend Freelance em:
   - [Workana](https://www.workana.com/)

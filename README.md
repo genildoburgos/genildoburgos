@@ -1,8 +1,8 @@
 # Olá! Eu sou o Genildo Burgos 👋
 
 ## Sobre mim
-- 👨‍💻 Desenvolvedor Frontend Freelance
-- 🎓 Estudante de Ciência da Computação na Universidade Federal do Agreste de Pernambuco
+Olá, sou Genildo Burgos, Desenvolvedor web Freelance e estudante de Ciência da Computação na Universidade Federal do Agreste de Pernambuco. Apaixonado por criar experiências web envolventes, estou ativamente procurando por oportunidades de trabalho voluntário. Minha missão vai além do código, visando contribuir para projetos significativos e fazer a diferença. Vamos unir forças para causar impacto positivo! 💻❤️
+
 
 ## Habilidades
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white)

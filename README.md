@@ -1,12 +1,12 @@
-# Genildo Burgos 👋
+# Genildo Burgos 🇧🇷👨‍💻
 
-## Sobre mim
-- Desenvolvedor De Sistemas Simples
-- Estudante de Ciência da Computação
-- Estudande de segurança Web
-- Inglês Avançado
+## About Me
+- Dev
+- Coumputer Science Student
+- Web Security Student
+- Advanced English
 
-## Habilidades
+## Skills
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![JavaScript (ES6)](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Git/GitHub](https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=git&logoColor=white)

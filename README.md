@@ -1,6 +1,6 @@
 # Genildo Burgos 🇧🇷👨‍💻
 
-## Sobre Min
+## Sobre Mim
 Olá, meu nome é Genildo! Eu curto tudo sobre programação e computação. No momento, estou cursando Ciências da Computação na Universidade Federal do Agreste de Pernambuco.
 Tenho experiência com diversas tecnologias de desenvolvimento web e posso realmente construir sites, sistemas e aplicações web do básico ao intermediário.
 Além disso, tenho muito interesse no mundo open source e sonho em contribuir um dia para a comunidade. Também possuo conhecimento de inglês intermediário/avançado. 

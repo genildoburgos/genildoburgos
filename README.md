@@ -1,12 +1,18 @@
 # Genildo Burgos 🇧🇷👨‍💻
 
-## About Me
-- Dev
-- Coumputer Science Student
-- Web Security Student
-- Advanced English
+## Sobre Min
+Olá, meu nome é Genildo! Eu curto tudo sobre programação e computação. No momento, estou cursando Ciências da Computação na Universidade Federal do Agreste de Pernambuco.
+Tenho experiência com diversas tecnologias de desenvolvimento web e posso realmente construir sites, sistemas e aplicações web do básico ao intermediário.
+Além disso, tenho muito interesse no mundo open source e sonho em contribuir um dia para a comunidade. Também possuo conhecimento de inglês intermediário/avançado. 
 
-## Technologies studied
+## Portifolio
+Ainda estou construindo meu portfólio. Quando terminar, vou anexá-lo aqui junto com as outras informações. Se estiver interessado em conhecer meu trabalho, por favor, veja meus repositórios.
+
+## Contato
+
+  E-mail: gnldburgos@gmail.com
+
+## Tecnologias 
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)

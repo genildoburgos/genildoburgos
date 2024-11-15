@@ -1,5 +1,9 @@
 # Genildo Burgos 
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=genildoburgos&theme=dark&hide_border=true" alt="GitHub Streak" height="200" />
+</p>
+
 ## Sobre Mim  
 
 Atualmente, estou cursando **Ciências da Computação** na **Universidade Federal do Agreste de Pernambuco (UFAPE)**.  
@@ -9,22 +13,15 @@ Atualmente, estou cursando **Ciências da Computação** na **Universidade Feder
 ## Minhas Estatísticas  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=genildoburgos&theme=radical&hide_border=true" alt="GitHub Streak" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=genildoburgos&theme=dark" alt="Contributions" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=genildoburgos&theme=radical" alt="Contributions" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=genildoburgos&theme=dark" alt="Additional Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genildoburgos&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=genildoburgos&theme=dark" alt="Commits by Languages" height="150" />
 </p>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=genildoburgos&theme=radical" alt="Additional Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genildoburgos&layout=compact&theme=radical" alt="Top Languages" height="150" style="border: none;"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=genildoburgos&theme=radical" alt="Commits by Languages" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=genildoburgos&theme=radical" alt="Repositories per Language" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=genildoburgos&theme=radical&utcOffset=8" alt="Productive Time" height="150" />
-</p>
-
----
 
 ## Tecnologias e Ferramentas  
 
@@ -52,7 +49,6 @@ Atualmente, estou cursando **Ciências da Computação** na **Universidade Feder
   <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Sistemas Linux" />
 </p>
 
----
 ## Projetos  
 
 ###  [Sistema de Menu Digital](https://github.com/genildoburgos/menu-digital)  
@@ -64,7 +60,6 @@ Sistema para gerenciar agendamentos no hospital veterinário universitário da U
 ###  [Sistema de Gerenciamento de Academias (Back-SGPA-v1)](https://github.com/genildoburgos/Back-Sgpa-v1)  
 Um sistema de back-end para gerenciar academias, incluindo funcionalidades como cadastro de alunos, turmas, planos e controle financeiro. Desenvolvido com **Spring Boot**, **Java**, e **PostgreSQL**.  
 
----
 
 ## Contato  
 

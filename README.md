@@ -9,9 +9,7 @@ Atualmente, estou cursando **Ciências da Computação** na **Universidade Feder
 ## Minhas Estatísticas  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=genildoburgos&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genildoburgos&layout=compact&theme=radical" alt="Top Languages" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=genildoburgos&theme=radical&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=genildoburgos&theme=radical&hide_border=true" alt="GitHub Streak" height="200" />
 </p>
 
 <p align="center">
@@ -19,6 +17,7 @@ Atualmente, estou cursando **Ciências da Computação** na **Universidade Feder
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genildoburgos&layout=compact&theme=radical" alt="Top Languages" height="150" style="border: none;"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=genildoburgos&theme=radical&utcOffset=8" alt="Productive Time" height="150" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=genildoburgos&theme=radical" alt="Commits by Languages" height="150" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=genildoburgos&theme=radical" alt="Repositories per Language" height="150" />

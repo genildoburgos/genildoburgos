@@ -17,8 +17,8 @@ Atualmente, estou cursando **Ciências da Computação** na **Universidade Feder
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genildoburgos&layout=compact&theme=radical" alt="Top Languages" height="150" style="border: none;"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=genildoburgos&theme=radical" alt="Additional Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genildoburgos&layout=compact&theme=radical" alt="Top Languages" height="150" style="border: none;"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=genildoburgos&theme=radical" alt="Commits by Languages" height="150" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=genildoburgos&theme=radical" alt="Repositories per Language" height="150" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=genildoburgos&theme=radical&utcOffset=8" alt="Productive Time" height="150" />

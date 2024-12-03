@@ -1,9 +1,4 @@
 # Genildo Burgos 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=genildoburgos&theme=dark&hide_border=true" alt="GitHub Streak" height="200" />
-</p>
-
 ## Sobre Mim  
 
 Atualmente, estou cursando **Ciências da Computação** na **Universidade Federal do Agreste de Pernambuco (UFAPE)**.  

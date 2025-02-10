@@ -3,7 +3,7 @@
 
 Atualmente, estou cursando **Ciências da Computação** na **Universidade Federal do Agreste de Pernambuco (UFAPE)**.  
 
-💻 Sou desenvolvedor **fullstack** com experiência em **front-end** e **back-end**, buscando sempre criar soluções criativas e eficientes. Também sou **Embaixador Universitário na DIO** e líder de projetos acadêmicos. No momento, estou trabalhando no desenvolvimento de projetos **open source**, e participando de projetos acadêmicos desafiadores, como o sistema de agendamento do hospital veterinário universitário da UFAPE.  
+💻 Sou desenvolvedor **back-end**, buscando sempre criar soluções criativas e eficientes. No momento, estou trabalhando no desenvolvimento de projetos **open source**, e participando de projetos acadêmicos desafiadores, como o sistema de agendamento do hospital veterinário universitário da UFAPE.  
 
 ## Minhas Estatísticas  
 

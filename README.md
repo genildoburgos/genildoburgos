@@ -17,7 +17,6 @@ Atualmente, estou cursando **Ciências da Computação** na **Universidade Feder
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=genildoburgos&theme=dark" alt="Commits by Languages" height="150" />
 </p>
 
-
 ## Tecnologias e Ferramentas  
 
 <p align="center">
@@ -37,6 +36,8 @@ Atualmente, estou cursando **Ciências da Computação** na **Universidade Feder
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=git&logoColor=white" alt="Git/GitHub" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Keycloak-000000?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak" />
@@ -55,6 +56,12 @@ Sistema para gerenciar agendamentos no hospital veterinário universitário da U
 ###  [Sistema de Gerenciamento de Academias (Back-SGPA-v1)](https://github.com/genildoburgos/Back-Sgpa-v1)  
 Um sistema de back-end para gerenciar academias, incluindo funcionalidades como cadastro de alunos, turmas, planos e controle financeiro. Desenvolvido com **Spring Boot**, **Java**, e **PostgreSQL**.  
 
+###  [Template Flutter - Vida Agroecológica App](https://github.com/genildoburgos/vida-agroecologica-app-comercio-vendedor)  
+Template de aplicativo desenvolvido com **Flutter**, pronto para ser utilizado em projetos diversos.  
+Conta com:
+- Estrutura base com **Provider** já configurado  
+- Diversos **comentários de documentação** para guiar o desenvolvimento  
+- Sugestão de uso com **device preview** na versão desktop (Linux ou Windows), evitando consumo excessivo do emulador Android  
 
 ## Contato  
 

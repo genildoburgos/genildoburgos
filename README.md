@@ -3,7 +3,8 @@
 
 Atualmente, estou cursando **Ciências da Computação** na **Universidade Federal do Agreste de Pernambuco (UFAPE)**.  
 
-💻 Sou desenvolvedor **back-end**, buscando sempre criar soluções criativas e eficientes.  
+💻 Sou desenvolvedor **back-end**, buscando sempre criar soluções criativas e eficientes. 
+💻 Atualmente estudando **infraestrutura - DevOps, Amazon Web Services (AWS), Google Cloud Platform(GCP)**.
 
 ## Minhas Estatísticas  
 

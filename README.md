@@ -5,20 +5,8 @@ Atualmente, estou cursando **Ciências da Computação** na **Universidade Feder
 
 💻 Sou desenvolvedor **back-end**, buscando sempre criar soluções criativas e eficientes. Atualmente estudando **infraestrutura - DevOps, Amazon Web Services (AWS), Google Cloud Platform(GCP)**.
 
-## Minhas Estatísticas  
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=genildoburgos&theme=dark" alt="Contributions" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=genildoburgos&theme=dark" alt="Additional Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genildoburgos&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=genildoburgos&theme=dark" alt="Commits by Languages" height="150" />
-</p>
-
 - **Email**: [gnldburgos@gmail.com](mailto:gnldburgos@gmail.com)  
 - **LinkedIn**: [Genildo Burgos](https://linkedin.com/in/genildoburgos)  
-- **Portfólio**: Em breve  
+- **Applin.com.br**: [Applin Carrerira Com IA](https://applin.com.br/curriculo-com-ia)    
 
 ---

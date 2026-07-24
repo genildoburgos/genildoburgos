@@ -7,6 +7,6 @@ Atualmente, estou cursando **Ciências da Computação** na **Universidade Feder
 
 - **Email**: [gnldburgos@gmail.com](mailto:gnldburgos@gmail.com)  
 - **LinkedIn**: [Genildo Burgos](https://linkedin.com/in/genildoburgos)  
-- **Applin.com.br**: [Applin Carrerira Com IA](https://applin.com.br/curriculo-com-ia)    
+- **Applin.com.br**: [Pare de enviar currículos sem receber resposta](https://applin.com.br/curriculo-com-ia)    
 
 ---

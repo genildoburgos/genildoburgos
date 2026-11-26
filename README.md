@@ -6,7 +6,7 @@
   <p>
     <a href="https://linkedin.com/in/genildo-burgos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:gnldburgos@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <!-- <a href="https://github.com/genildoburgos/curriculo-latex/releases/tag/latest"><img src="https://img.shields.io/badge/Currículo_PDF-0E4194?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Curriculo PDF" /></a> -->
+    <a href="https://cdn.genildoburgos.tech/docs/curriculo-genildo-burgos.pdf"><img src="https://img.shields.io/badge/Currículo_PDF-0E4194?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Curriculo PDF" /></a>
     <a href="https://genildoburgos.tech/?utm_source=github&utm_medium=profile&utm_campaign=social"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   </p>
 </div>

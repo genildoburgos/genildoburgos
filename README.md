@@ -18,7 +18,7 @@
 * ☁️ **AWS Certified Cloud Practitioner (CLF-C02)** — Certificação oficial Amazon Web Services em arquitetura em nuvem e infraestrutura.
 * 📜 **Registro de Software no INPI (BR512025002804-0)** — Coautor e desenvolvedor da plataforma pública **GestãoHVU** (Sistema Hospitalar Universitário - UFAPE).
 * 🏆 **3º Lugar Nacional na DIO (18ª Edição)** — Premiado em competição nacional de artigos técnicos com publicação sobre *"Framework Java: Conheça o Spring e o Poder do Spring Boot"*.
-* 🌐 **Engenharia Internacional (Brasil–China)** — Atuação em plataforma IoT/BLE em produção, integrando telemetria em tempo real e webhooks resilientes.
+* 🌐 **Engenharia Internacional (Brasil–China)** — Estabilização de plataforma IoT/BLE gerada por IA em produção, mitigando gargalos de telemetria e reduzindo falhas de ingestão.
 * 🗣️ **Inglês Avançado** — Comunicação oral e escrita fluente para colaboração técnica global e leitura especializada.
 
 ---
